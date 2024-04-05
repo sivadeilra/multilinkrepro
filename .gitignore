@@ -1,0 +1,7 @@
+target/
+.vscode/
+
+*.o
+*.lib
+*.a
+*.pdb
